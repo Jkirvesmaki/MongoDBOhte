@@ -1,3 +1,3 @@
-## MERN stack web program
+## Simple app for worker management
 
-#Ohjelmistokehitysten teknologioita
+Made with MERN stack
