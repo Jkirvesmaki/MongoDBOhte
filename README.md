@@ -1,3 +1,3 @@
-## Simple app for worker management
+## Simple app made with MERN stack and react classes 
 
-Made with MERN stack
+Made for a school project to learn class based React.
